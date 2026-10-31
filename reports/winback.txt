@@ -1,0 +1,5 @@
+===== CUSTOMERS INACTIVE FOR 30 DAYS =====
+Generated on: 2026-10-31 16:56:01
+
+Phone           Name            Points     Last Visit  
+9123456780      DIYA            40         2026-09-10  
